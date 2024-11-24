@@ -1,2 +1,2 @@
-# HelloWorld-Python
-A man ate an apple in python. Was it you?
+# HelloWorld
+Repurposed to be a first for everything
