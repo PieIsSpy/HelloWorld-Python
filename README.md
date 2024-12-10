@@ -1,2 +1,2 @@
 # HelloWorld
-Repurposed to be a first for everything
+Repurposed for advanced studying or messing about with languages
